@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecncrypt",
+        "uuid": 3969545,
+        "checksum": "a2jug4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
